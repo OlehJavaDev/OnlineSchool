@@ -11,7 +11,6 @@ public class Main {
         //System.out.println(Lecture.LectureCounter);
         Lecture fourthLecture = new Lecture();
         Lecture fifthLecture = new Lecture();
-        System.out.println(Lecture.LectureCounter);
 
 
 
