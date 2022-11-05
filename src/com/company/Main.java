@@ -9,11 +9,12 @@ public class Main {
         Lecture secondLecture = new Lecture();
         Lecture thirdLecture = new Lecture();
         System.out.println(Lecture.LectureCounter);
-        Lecture oneMoreLecture = new Lecture();
-
         Lecture fourthLecture = new Lecture();
         Lecture fifthLecture = new Lecture();
         System.out.println(Lecture.LectureCounter);
+
+
+
 
 
 
