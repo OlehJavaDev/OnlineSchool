@@ -9,6 +9,8 @@ public class Main {
         Lecture secondLecture = new Lecture();
         Lecture thirdLecture = new Lecture();
         System.out.println(Lecture.LectureCounter);
+        Lecture fourthLecture = new Lecture();
+        Lecture fifthLecture = new Lecture();
 
 
 
