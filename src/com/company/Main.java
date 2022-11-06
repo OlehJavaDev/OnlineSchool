@@ -9,7 +9,7 @@ public class Main {
         Lecture secondLecture = new Lecture();
         Lecture thirdLecture = new Lecture();
         System.out.println(Lecture.LectureCounter);
-        Lecture oneMoreLecture = new Lecture();
+
 
 
 
